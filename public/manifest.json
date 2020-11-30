@@ -1,6 +1,6 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
+  "name": "Portfolio",
+  "short_name": "Portfolio",
   "theme_color": "#2D2241",
   "background_color": "#2D2241",
   "display": "standalone",
