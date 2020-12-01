@@ -8,6 +8,7 @@
 *:after {
 	box-sizing: inherit;
 	text-decoration: none;
+	list-style-type: none;
 }
 
 html {
@@ -34,7 +35,7 @@ main {
 	color: #fff;
 	border: none;
 	height: 100%;
-  padding-bottom: 24px;
+	padding-bottom: 24px;
 	&__header {
 		height: 40px;
 		background-color: $box-header;
@@ -50,7 +51,18 @@ main {
 			margin: 16px 8px 16px 0px;
 		}
 	}
-	&__list {
+	&__container {
 		padding: 24px 16px;
+		& svg {
+			margin-bottom: 24px;
+		}
+	}
+	&__list {
+		display: flex;
+		flex-direction: column;
+& li {
+  line-height: 24px;
+  font-size: 13px;
+}
 	}
 }
