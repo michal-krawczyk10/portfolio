@@ -32,9 +32,11 @@ main {
 	background-color: $box;
 	border-radius: 16px;
 	color: #fff;
-  border: none;
+	border: none;
+	height: 100%;
+  padding-bottom: 24px;
 	&__header {
-    height: 40px;
+		height: 40px;
 		background-color: $box-header;
 		margin: 0;
 		padding: 0px 0px 0px 16px;
@@ -47,5 +49,8 @@ main {
 			border-radius: 50%;
 			margin: 16px 8px 16px 0px;
 		}
+	}
+	&__list {
+		padding: 24px 16px;
 	}
 }
