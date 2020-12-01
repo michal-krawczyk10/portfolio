@@ -3,9 +3,21 @@
 @import "_variables";
 @import "modules/hello.scss";
 
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+	text-decoration: none;
+}
+
+html {
+	box-sizing: border-box;
+	font-family: monospace;
+}
+
 body {
   background: $back;
-  color: #fff;
+  color: black;
   display: flex;
   align-items: center;
   justify-content: center;
