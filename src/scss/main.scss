@@ -17,8 +17,8 @@ html {
 }
 
 body {
-	background: $back;
-	color: black;
+	background: $main;
+	color: black; //tymczasowo
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -32,7 +32,7 @@ main {
 .box {
 	background-color: $box;
 	border-radius: 16px;
-	color: #fff;
+	color: $main;
 	border: none;
 	height: 100%;
 	padding-bottom: 24px;
@@ -69,12 +69,16 @@ main {
 			margin-bottom: 8px;
 			color: $box-list;
 			&:first-of-type {
-				color: #ffffff;
+				color: $main;
+			}
+			&:nth-child(2) {
+				margin-bottom: 24px;
 			}
 			& > a {
 				color: $box-link;
 				text-decoration: underline;
-				&::before, ::after {
+				&::before,
+				::after {
 					display: inline-block;
 					content: "<";
 					color: $box-desc;
@@ -90,9 +94,6 @@ main {
 			text-align: right;
 			margin-right: 4px;
 			color: $box-desc;
-		}
-		&--desc2 {
-			margin-bottom: 24px;
 		}
 	}
 }
