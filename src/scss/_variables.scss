@@ -1,27 +1,49 @@
 $main: #ffffff;
 $back2: #1070ca;
-$back-link: #4DA8FF;
+$back-link: #4da8ff;
 $box: #212528;
-$box-header: #1E1E1E;
-$box-dots: #464A4D;
+$box-header: #1e1e1e;
+$box-dots: #464a4d;
 $box-desc: #808082;
-$box-list: #A3A3A3;
-$box-link: #14B5D0;
+$box-list: #a3a3a3;
+$box-link: #14b5d0;
 
 //media breakpoints
 $desktop: 960px;
 
 //fonts
+$nunito: "Nunito", sans-serif;
+$roboto-mono: "Roboto Mono", monospace;
 
 @mixin mobile-header1 {
-  font-family: 'Nunito', sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 48px;
+	font-family: $nunito;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 48px;
 }
-// $:
-// $mobile-header2:
-// $mobile-text: 
+
+@mixin mobile-header2 {
+	font-family: $nunito;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 32px;
+}
+
+@mixin mobile-text {
+	font-family: $nunito;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 32px;
+}
+
+@mixin mobile-text-bold {
+  font-family: $nunito;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+// $mobile-text:
 // $mobile-text-bold:
 // $mobile-console:
 
