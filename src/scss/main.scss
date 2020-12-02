@@ -37,6 +37,33 @@ main {
 	}
 }
 
+.article__skills {
+	width: 100%;
+	margin: 64px auto 46px;
+	// margin-top: 64px;
+	// margin-bottom: 46px;
+	text-align: center;
+	@media screen and (min-width: $desktop) {
+		width: 782px;
+		margin-top: 80px;
+		margin-bottom: 128px;
+	}
+	&--header {
+		margin: 0 0 32px 0;
+		@media screen and (min-width: $desktop) {
+			margin-bottom: 40px;
+		}
+	}
+	&--text {
+		color: $text;
+		margin: 0;
+		@include mobile-text;
+		@media screen and (min-width: $desktop) {
+			@include text;
+		}
+	}
+}
+
 .box {
 	background-color: $console2;
 	border-radius: 16px;
@@ -72,13 +99,10 @@ main {
 		& > li {
 			display: grid;
 			grid-template-columns: 4fr 6fr;
-			line-height: 24px;
-			font-size: 13px;
+
 			margin-bottom: 8px;
 			color: $console5;
-			&:first-of-type {
-				color: $main;
-			}
+			@include mobile-console;
 			&:nth-child(2) {
 				margin-bottom: 24px;
 			}
@@ -99,9 +123,15 @@ main {
 			}
 		}
 		&--desc {
+			@include mobile-console;
 			text-align: right;
 			margin-right: 4px;
 			color: $console4;
+		}
+		&--projectName {
+			color: $main;
+			font-weight: 700;
+			line-height: 24px;
 		}
 	}
 }
