@@ -87,7 +87,7 @@ main {
 		}
 	}
 	&__container {
-		padding: 24px 16px;
+		padding: 24px 16px 16px;
 		& svg {
 			margin-bottom: 24px;
 		}
@@ -107,7 +107,7 @@ main {
 				margin-bottom: 24px;
 			}
 			& > a {
-				color: $link;
+				color: $console-link;
 				text-decoration: underline;
 				&::before,
 				::after {
