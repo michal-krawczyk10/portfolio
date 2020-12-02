@@ -28,8 +28,12 @@ main {
 	margin: 0px 16px;
 }
 
-.header1 {
+.section__header {
 	@include mobile-header1;
+	text-align: center;
+	@media screen and (min-width: $desktop) {
+		@include header1;
+	}
 }
 
 .box {
