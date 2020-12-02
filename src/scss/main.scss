@@ -31,13 +31,14 @@ main {
 .section__header {
 	@include mobile-header1;
 	text-align: center;
+	color: $text-dark;
 	@media screen and (min-width: $desktop) {
 		@include header1;
 	}
 }
 
 .box {
-	background-color: $box;
+	background-color: $console2;
 	border-radius: 16px;
 	color: $main;
 	border: none;
@@ -45,7 +46,7 @@ main {
 	padding-bottom: 24px;
 	&__header {
 		height: 40px;
-		background-color: $box-header;
+		background-color: $console1;
 		margin: 0;
 		padding: 0px 0px 0px 16px;
 		border-radius: 16px 16px 0 0;
@@ -53,7 +54,7 @@ main {
 			display: inline-block;
 			width: 8px;
 			height: 8px;
-			background-color: $box-dots;
+			background-color: $console3;
 			border-radius: 50%;
 			margin: 16px 8px 16px 0px;
 		}
@@ -74,7 +75,7 @@ main {
 			line-height: 24px;
 			font-size: 13px;
 			margin-bottom: 8px;
-			color: $box-list;
+			color: $console5;
 			&:first-of-type {
 				color: $main;
 			}
@@ -82,25 +83,25 @@ main {
 				margin-bottom: 24px;
 			}
 			& > a {
-				color: $box-link;
+				color: $link;
 				text-decoration: underline;
 				&::before,
 				::after {
 					display: inline-block;
 					content: "<";
-					color: $box-desc;
+					color: $console4;
 				}
 				&::after {
 					display: inline-block;
 					content: ">";
-					color: $box-desc;
+					color: $console4;
 				}
 			}
 		}
 		&--desc {
 			text-align: right;
 			margin-right: 4px;
-			color: $box-desc;
+			color: $console4;
 		}
 	}
 }
