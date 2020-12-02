@@ -7,3 +7,28 @@ $box-dots: #464A4D;
 $box-desc: #808082;
 $box-list: #A3A3A3;
 $box-link: #14B5D0;
+
+//media breakpoints
+$desktop: 960px;
+
+//fonts
+
+@mixin mobile-header1 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+}
+// $:
+// $mobile-header2:
+// $mobile-text: 
+// $mobile-text-bold:
+// $mobile-console:
+
+// $header1:
+// $header2:
+// $header3:
+// $text:
+// $text-bold:
+// $list:
+// $console:
