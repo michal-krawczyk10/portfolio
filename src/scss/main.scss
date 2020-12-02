@@ -1,7 +1,8 @@
 @import "~normalize.css";
-
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&family=Roboto+Mono&display=swap');
 @import "_variables";
-@import "modules/hello.scss";
+
+//media q break point 960px
 
 *,
 *:before,
@@ -28,6 +29,9 @@ body {
 main {
 	margin: 0px 16px;
 }
+
+
+
 
 .box {
 	background-color: $box;
