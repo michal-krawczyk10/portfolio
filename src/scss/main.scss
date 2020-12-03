@@ -8,26 +8,25 @@
 	box-sizing: inherit;
 	text-decoration: none;
 	list-style-type: none;
-	margin: 0;
 }
-
 html {
 	box-sizing: border-box;
-	font-family: monospace;
+	font-family: $nunito;
+	margin: 0;
 }
 
 body {
 	background: $main;
-	color: black; //tymczasowo
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	min-height: 100vh;
-	font-family: $nunito;
 }
 
 .main {
 	width: 100%;
+	// padding-left: 16px;
+	// padding-right: 16px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .section__header {
@@ -94,7 +93,7 @@ body {
 	border: none;
 	height: 100%;
 	padding-bottom: 24px;
-	min-width: 60vw;
+	min-width: 51vw;
 	max-width: 680px;
 	margin-bottom: 24px;
 	@media screen and (min-width: $desktop) {
@@ -236,6 +235,9 @@ body {
 			background-color: $link;
 			text-align: center;
 			border-radius: 64px;
+			@media screen and (max-width: 340px) {
+				font-size: 15px;
+			}
 		}
 	}
 }
