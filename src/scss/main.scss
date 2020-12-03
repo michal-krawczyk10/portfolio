@@ -26,6 +26,9 @@ body {
 
 main {
 	margin: 0px 16px;
+	@media screen and (min-width: $desktop) {
+		margin: 0px 128px;
+	}
 }
 
 .section__header {
@@ -64,9 +67,16 @@ main {
 	}
 }
 .boxes {
-	@media screen and ($desktop){
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	@media screen and (min-width: $desktop) {
+		margin: 0 auto;
 		display: grid;
-		grid-template-columns: (1fr 1fr);
+		grid-template-columns: repeat(2, 1fr);
+		column-gap: 24px;
+		row-gap: 24px;
+		max-width: 1184px;
 	}
 }
 
@@ -77,8 +87,12 @@ main {
 	border: none;
 	height: 100%;
 	padding-bottom: 24px;
-	margin: 0 auto;
-	max-width: 580px;
+	min-width: 60vw;
+	max-width: 680px;
+	margin-bottom: 24px;
+	@media screen and (min-width: $desktop) {
+		min-width: 0;
+	}
 	&__header {
 		height: 40px;
 		background-color: $console1;
@@ -111,6 +125,9 @@ main {
 			margin-bottom: 8px;
 			color: $console5;
 			@include mobile-console;
+			@media screen and (min-width: $desktop) {
+				grid-template-columns: 3fr 7fr;
+			}
 			&:nth-child(2) {
 				margin-bottom: 24px;
 			}
