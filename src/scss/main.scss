@@ -22,8 +22,8 @@ body {
 
 .main {
 	width: 100%;
-	// padding-left: 16px;
-	// padding-right: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -38,7 +38,12 @@ body {
 		@include header1;
 	}
 }
+
 .skills {
+	background-color: $blue;
+}
+
+.projects {
 	margin: 0px 16px;
 	@media screen and (min-width: $desktop) {
 		margin: 0px 128px;
