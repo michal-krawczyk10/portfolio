@@ -25,7 +25,12 @@ body {
 	font-family: $nunito;
 }
 
+.main {
+	width: 100%;
+}
+
 .section__header {
+	margin: 0;
 	@include mobile-header1;
 	text-align: center;
 	color: $text-dark;
@@ -164,4 +169,11 @@ body {
 
 .contact {
 	background-color: $blue-light;
+	&__container {
+		margin: 0;
+		padding: 64px 16px 88px;
+		@media screen and (min-width: $desktop) {
+			padding: 80px 0 176px;
+		}
+	}
 }
