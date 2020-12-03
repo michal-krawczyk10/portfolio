@@ -229,5 +229,13 @@ body {
 				left: 25%;
 			}
 		}
+		&--link {
+			@include text-bold;
+			color: $main;
+			padding: 4px 24px;
+			background-color: $link;
+			text-align: center;
+			border-radius: 64px;
+		}
 	}
 }
