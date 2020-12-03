@@ -37,7 +37,7 @@ main {
 	}
 }
 
-.article__skills {
+.skills {
 	width: 100%;
 	margin: 64px auto 46px;
 	// margin-top: 64px;
@@ -48,19 +48,25 @@ main {
 		margin-top: 80px;
 		margin-bottom: 128px;
 	}
-	&--header {
+	&__header {
 		margin: 0 0 32px 0;
 		@media screen and (min-width: $desktop) {
 			margin-bottom: 40px;
 		}
 	}
-	&--text {
+	&__text {
 		color: $text;
 		margin: 0;
 		@include mobile-text;
 		@media screen and (min-width: $desktop) {
 			@include text;
 		}
+	}
+}
+.boxes {
+	@media screen and ($desktop){
+		display: grid;
+		grid-template-columns: (1fr 1fr);
 	}
 }
 
@@ -71,6 +77,8 @@ main {
 	border: none;
 	height: 100%;
 	padding-bottom: 24px;
+	margin: 0 auto;
+	max-width: 580px;
 	&__header {
 		height: 40px;
 		background-color: $console1;
