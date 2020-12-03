@@ -22,13 +22,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
-}
-
-main {
-	margin: 0px 16px;
-	@media screen and (min-width: $desktop) {
-		margin: 0px 128px;
-	}
+	font-family: $nunito;
 }
 
 .section__header {
@@ -39,20 +33,26 @@ main {
 		@include header1;
 	}
 }
-
 .skills {
-	width: 100%;
-	margin: 64px auto 46px;
-	// margin-top: 64px;
-	// margin-bottom: 46px;
-	text-align: center;
+	margin: 0px 16px;
 	@media screen and (min-width: $desktop) {
-		width: 782px;
-		margin-top: 80px;
-		margin-bottom: 128px;
+		margin: 0px 128px;
+	}
+	&__container {
+		width: 100%;
+		margin: 64px auto 46px;
+		// margin-top: 64px;
+		// margin-bottom: 46px;
+		text-align: center;
+		@media screen and (min-width: $desktop) {
+			width: 782px;
+			margin-top: 80px;
+			margin-bottom: 128px;
+		}
 	}
 	&__header {
 		margin: 0 0 32px 0;
+		max-width: 782px;
 		@media screen and (min-width: $desktop) {
 			margin-bottom: 40px;
 		}
@@ -66,6 +66,7 @@ main {
 		}
 	}
 }
+
 .boxes {
 	display: flex;
 	justify-content: center;
@@ -121,12 +122,12 @@ main {
 		& > li {
 			display: grid;
 			grid-template-columns: 4fr 6fr;
-
 			margin-bottom: 8px;
 			color: $console5;
 			@include mobile-console;
 			@media screen and (min-width: $desktop) {
 				grid-template-columns: 3fr 7fr;
+				@include console;
 			}
 			&:nth-child(2) {
 				margin-bottom: 24px;
@@ -159,4 +160,8 @@ main {
 			line-height: 24px;
 		}
 	}
+}
+
+.contact {
+	background-color: $blue-light;
 }
