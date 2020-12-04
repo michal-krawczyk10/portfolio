@@ -62,6 +62,7 @@ body {
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
 			column-gap: 24px;
+			align-items: normal;
 		}
 	}
 	&__list {
