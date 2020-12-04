@@ -70,6 +70,7 @@ body {
 		flex-direction: column;
 		text-align: center;
 		margin-bottom: 72px;
+
 		@media screen and (min-width: $desktop) {
 			margin-bottom: 176px;
 		}
@@ -80,7 +81,6 @@ body {
 		}
 		&--header {
 			@include header3;
-			height: 44px;
 			color: $main;
 			margin: 0 0 24px;
 		}
@@ -88,14 +88,26 @@ body {
 			padding: 0;
 			text-align: left;
 			@include list;
+			line-height: 40px;
 			color: $blue-light;
 			width: 264px;
 			margin: 0;
 			& svg {
 				margin-right: 12px;
 			}
+			@media screen and (min-width: $desktop) {
+				margin: 0 auto;
+				width: 225px;
+			}
+		}
+		&--element3 {
+			list-style-type: disc;
+			margin-left: 8px;
 		}
 	}
+}
+.dot {
+	margin-left: 24px;
 }
 .projects {
 	margin: 0px 16px;
