@@ -54,7 +54,6 @@ body {
 			margin: 80px 0 128px;
 		}
 	}
-
 	&__container {
 		display: flex;
 		flex-direction: column;
@@ -63,6 +62,14 @@ body {
 			display: grid;
 			grid-template-columns: 1fr 1fr 1fr;
 			column-gap: 24px;
+		}
+	}
+	&__list {
+		&--emoji {
+			line-height: 64px;
+			@media screen and ($desktop) {
+				line-height: 72px;
+			}
 		}
 	}
 }
