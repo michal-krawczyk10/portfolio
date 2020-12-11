@@ -146,28 +146,32 @@
 	</head>
 	<body>
 		<main>
-			<section>
-				<div>
+			<section class="head">
+				<div class="head__img">
 					<img src="/node_modules/" alt="my picture" /><span
-						>hey there! 👋</span
+						class="head__welcome"
+						>hey there! <span class="head__welcome--emoji">👋</span></span
 					>
 				</div>
-				<article>
-					<h1>
+				<article class="head__article">
+					<h1 class="head__article--header">
 						My name is Michał and I'm working to become frontend developer.
 					</h1>
-					<p>
-						You might be interested in checking the list of <a>my skills</a>.
-						Don't forget to have a glimpse at <a>my projects</a>. Currently I'm
-						looking for a new challenges so if you have one, do not hesitate to
-						<a>contact me</a>.
+					<p class="head__article--text">
+						You might be interested in checking the list of
+						<a href="#skills">my skills</a>. Don't forget to have a glimpse at
+						<a href="#projects">my projects</a>. Currently I'm looking for a new
+						challenges so if you have one, do not hesitate to
+						<a href="#contact">contact me</a>.
 					</p>
-					<a href="mailto:michal.krawczyk10@gmail.com"
-						>michal.krawczyk10@gmail.com</a
-					>
+					<span class="button--mailto"
+						><a href="mailto:michal.krawczyk10@gmail.com"
+							>michal.krawczyk10@gmail.com</a
+						>
+					</span>
 				</article>
 			</section>
-			<section class="skills">
+			<section class="skills" id="skills">
 				<h2 class="section__header skills__header">my skills</h2>
 				<div class="skills__container">
 					<article class="skills__list">
@@ -725,7 +729,7 @@
 					</article>
 				</div>
 			</section>
-			<section class="projects">
+			<section class="projects" id="projects">
 				<article class="projects__container">
 					<h2 class="section__header projects__header">Recent projects</h2>
 					<p class="projects__text">
@@ -862,7 +866,7 @@
 					</div>
 				</article>
 			</section>
-			<section class="contact">
+			<section class="contact" id="contact">
 				<article class="contact__container">
 					<h2 class="section__header contact__header">Contact me</h2>
 					<p class="contact__text">
