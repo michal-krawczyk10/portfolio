@@ -10,21 +10,8 @@ console.log("HELLO 🚀");
 
 const fblink = document.querySelector(".contact__links--fb--js");
 
-fblink.setAttribute(
-			"href",
-			"https://m.facebook.com/messages/compose?ids=pizmakkun"
-		);
-
 fblink.onclick = () => {
-	if (true) {
 		fblink.setAttribute(
 			"href",
-			"https://m.facebook.com/messages/compose?ids=pizmakkun"
-		);
-	} else {
-		fblink.setAttribute(
-	 		"href",
-			"https://m.facebook.com/messages/compose?ids=pizmakkun"
-		 );
-  }
+			"https://www.facebook.com/pizmakkun");
 };
