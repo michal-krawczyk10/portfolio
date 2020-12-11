@@ -39,6 +39,23 @@ body {
 	}
 }
 
+.head {
+	width: 100%;
+	background-color: $main;
+	&__imgBox {
+		&--welcome {
+		display: none;
+		@media screen and (min-width: $desktop) {
+			display: block;
+		}	
+}
+		&--img {
+			border-radius: 50%;
+			border: 16px solid $blue-lightest;
+		}
+	}
+}
+
 .skills {
 	background-color: $blue;
 	padding: 0 16px;
