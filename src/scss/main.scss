@@ -51,11 +51,21 @@ body {
 		margin: 64px 0 40px;
 		@media screen and (min-width: $desktop) {
 			margin: 80px 0 72px;
+			position: relative;
 		}
 		&--text {
 			display: none;
 			@media screen and (min-width: $desktop) {
+				@include header2;
+				width: 240px;
 				display: inline-block;
+				position: absolute;
+				top: 0;
+				padding: 16px 19px;
+				background-color: $blue;
+				border-radius: 16px;
+				color: $main;
+				text-align: center;
 			}
 		}
 		&--img {
