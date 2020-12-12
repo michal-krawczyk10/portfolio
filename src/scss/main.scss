@@ -68,6 +68,15 @@ body {
 				text-align: center;
 			}
 		}
+		&--decor {
+			display: none;
+			@media screen and (min-width: $desktop) {
+				display: inline-block;
+				position: absolute;
+				top: 72px;
+				right: -50px;
+			}
+		}
 		&--img {
 			display: inline-block;
 			border-radius: 50%;
