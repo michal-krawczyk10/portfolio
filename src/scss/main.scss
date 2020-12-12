@@ -49,21 +49,22 @@ body {
 	text-align: center;
 	&__imgBox {
 		@media screen and (min-width: $desktop) {
+			width: 228px;
 		}
-		&--welcome {
+		&--text {
 			display: none;
 			@media screen and (min-width: $desktop) {
-				display: inline;
+				display: inline-block;
 			}
 		}
 		&--img {
-			display: inline;
-			box-sizing: content-box;
+			display: inline-block;
 			border-radius: 50%;
-			border: 16px solid $blue-lightest;
-
+			box-shadow: 0px 0px 0px 16px $blue-lightest;
+			width: 128px;
 			@media screen and (min-width: $desktop) {
-				border: 24px solid $blue-lightest;
+				box-shadow: 0px 0px 0px 24px $blue-lightest;
+				width: 226px;
 			}
 		}
 	}
