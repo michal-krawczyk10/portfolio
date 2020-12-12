@@ -42,16 +42,37 @@ body {
 .head {
 	width: 100%;
 	background-color: $main;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
 	&__imgBox {
-		&--welcome {
-		display: none;
+		margin-top: 64px;
+		margin-bottom: 24px;
 		@media screen and (min-width: $desktop) {
-			display: block;
-		}	
-}
+			margin-top: 80px;
+		}
+		&--welcome {
+			display: none;
+			@media screen and (min-width: $desktop) {
+				display: inline;
+			}
+		}
 		&--img {
+			display: inline;
+			margin-top: 18px;
+			box-sizing: content-box;
 			border-radius: 50%;
 			border: 16px solid $blue-lightest;
+			width: 96px;
+			height: 96px;
+			@media screen and (min-width: $desktop) {
+				width: 178px;
+				height: 178px;
+				border: 24px solid $blue-lightest;
+				margin-top: 26px;
+			}
 		}
 	}
 }
@@ -327,15 +348,17 @@ body {
 }
 
 .button--mailto {
-	padding: 4px 24px;
 	background-color: $link;
 	text-align: center;
 	border-radius: 64px;
+	display: inline-block;
 	& a {
 		@include text-bold;
+		padding: 4px 24px;
 		color: $main;
+		display: block;
 		@media screen and (max-width: 359px) {
-			font-size: 16px;
+			font-size: 16px;padding: 2px 16px;
 		}
 	}
 }
