@@ -16,7 +16,7 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 	.then((resp) => resp.json())
 	.then((resp) => {
 		for (let repo of resp) {
-			const { name, html_url, description } = repo;
+			const { name, html_url, description, homepage } = repo;
 			const projectBoxes = document.querySelector(".boxes--js");
 			const boxTemplate = `<div class="box">
 						<div class="box__header">
@@ -51,7 +51,7 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 								</li>
 								<li>
 									<span class="box__list--desc">demo:</span
-									><a href="">see here</a>
+									><a href="${homepage}" title="link to ${name}">see here</a>
 								</li>
 								<li>
 									<span class="box__list--desc">github:</span
@@ -60,7 +60,9 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 							</ul>
 						</div>
 					</div>`;
-			projectBoxes.innerHTML += boxTemplate;
+			if (repo.homepage) {
+				projectBoxes.innerHTML += boxTemplate;
+			}
 		}
 	})
 	.catch((error) => {
