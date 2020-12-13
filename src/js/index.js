@@ -2,6 +2,9 @@ import "../scss/main.scss";
 import { registerSW } from "./pwa.js";
 registerSW();
 
+//in case of API rate limit achieved, on error API data imported from file
+import { offlineAPI } from "./offlineAPI.js";
+
 //link to fb on icon
 
 const fblink = document.querySelector(".contact__links--fb--js");
@@ -11,9 +14,6 @@ fblink.onclick = () => {
 };
 
 //api for projects section
-
-//in case of API rate limit achieved, API data taken from file
-import { offlineAPI } from "./offlineAPI.js";
 
 fetch("https://api.github.com/users/michal-krawczyk10/repos")
 	.then((resp) => resp.json())
@@ -105,11 +105,11 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 								</li>
 								<li>
 									<span class="box__list--desc">demo:</span
-									><a href="${homepage}" title="link to ${name}">see here</a>
+									><a target="_blank" rel="noopener noreferrer" href="${homepage}" title="link to ${name}">see here</a>
 								</li>
 								<li>
 									<span class="box__list--desc">github:</span
-									><a href="${html_url}" title="link to ${name} repository on github ">source code</a>
+									><a target="_blank" rel="noopener noreferrer" href="${html_url}" title="link to ${name} repository on github ">source code</a>
 								</li>
 							</ul>
 						</div>
