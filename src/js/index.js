@@ -15,7 +15,7 @@ fblink.onclick = () => {
 //in case of API rate limit achieved, API data taken from file
 import { offlineAPI } from "./offlineAPI.js";
 
-fetch("https://api.gwithub.com/users/michal-krawczyk10/repos")
+fetch("https://api.github.com/users/michal-krawczyk10/repos")
 	.then((resp) => resp.json())
 	.then((resp) => {
 		for (let repo of resp) {
