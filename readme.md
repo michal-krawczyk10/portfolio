@@ -1,4 +1,5 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://github.com/michal-krawczyk10/portfolio/blob/master/src/assets/img/OGImage.png)
 
-# Here will be my portfolio (work in progress)
+# Check my portfolio (work in progres)
+(https://michal-krawczyk10.github.io/portfolio/ "my portfolio")
 
