@@ -54,11 +54,11 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 								</li>
 								<li>
 									<span class="box__list--desc">demo:</span
-									><a href="${homepage}" title="link to ${name}">see here</a>
+									><a target="_blank" rel="noopener noreferrer" href="${homepage}" title="link to ${name}">see here</a>
 								</li>
 								<li>
 									<span class="box__list--desc">github:</span
-									><a href="${html_url}" title="link to ${name} repository on github ">source code</a>
+									><a target="_blank" rel="noopener noreferrer" href="${html_url}" title="link to ${name} repository on github ">source code</a>
 								</li>
 							</ul>
 						</div>
