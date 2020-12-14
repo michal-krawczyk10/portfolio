@@ -1,6 +1,6 @@
 import "../scss/main.scss";
 
-import {registerSW} from "./pwa.js";
+import { registerSW } from "./pwa.js";
 registerSW();
 
 //in case of API rate limit achieved, on error API data imported from file
