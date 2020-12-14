@@ -100,6 +100,12 @@ body {
 		margin: 0 16px 88px;
 		@media screen and (min-width: $desktop) {
 			margin: 0 auto 176px;
+			&:before {
+				background-image: url(https://github.com/michal-krawczyk10/portfolio/blob/master/src/assets/img/%7B.svg);
+			}
+			&:after {
+				background-image: url(https://github.com/michal-krawczyk10/portfolio/blob/master/src/assets/img/%7D.svg);
+			}
 		}
 		&--header {
 			@include mobile-header2;
