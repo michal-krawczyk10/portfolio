@@ -55,7 +55,7 @@ fetch("https://api.github.com/users/michal-krawczyk10/repos")
 								</li>
 								<li>
 									<span class="box__list--desc">demo:</span
-									><a target="_blank" rel="noopener noreferrer" href="${homepage}" title="link to ${name}">see here</a>
+									><a target="_blank" rel="noopener noreferrer" href="${homepage}" title="link to ${name} demo">see here</a>
 								</li>
 								<li>
 									<span class="box__list--desc">github:</span
