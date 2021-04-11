@@ -11,7 +11,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -147,7 +147,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -241,13 +241,13 @@ export const offlineAPI = [
 			"https://api.github.com/repos/michal-krawczyk10/form/deployments",
 		created_at: "2020-06-06T14:12:25Z",
 		updated_at: "2020-06-06T16:52:35Z",
-		pushed_at: "2020-07-21T00:55:54Z",
+		pushed_at: "2021-03-31T11:37:37Z",
 		git_url: "git://github.com/michal-krawczyk10/form.git",
 		ssh_url: "git@github.com:michal-krawczyk10/form.git",
 		clone_url: "https://github.com/michal-krawczyk10/form.git",
 		svn_url: "https://github.com/michal-krawczyk10/form",
 		homepage: null,
-		size: 105,
+		size: 158,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "CSS",
@@ -260,10 +260,10 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 1,
+		open_issues_count: 2,
 		license: null,
 		forks: 0,
-		open_issues: 1,
+		open_issues: 2,
 		watchers: 0,
 		default_branch: "master",
 	},
@@ -277,7 +277,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -415,7 +415,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -511,13 +511,13 @@ export const offlineAPI = [
 			"https://api.github.com/repos/michal-krawczyk10/homepage/deployments",
 		created_at: "2020-05-01T18:50:46Z",
 		updated_at: "2020-06-07T18:52:38Z",
-		pushed_at: "2020-07-21T00:26:22Z",
+		pushed_at: "2021-04-01T01:48:57Z",
 		git_url: "git://github.com/michal-krawczyk10/homepage.git",
 		ssh_url: "git@github.com:michal-krawczyk10/homepage.git",
 		clone_url: "https://github.com/michal-krawczyk10/homepage.git",
 		svn_url: "https://github.com/michal-krawczyk10/homepage",
 		homepage: null,
-		size: 12060,
+		size: 12078,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "HTML",
@@ -530,24 +530,24 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 1,
+		open_issues_count: 2,
 		license: null,
 		forks: 0,
-		open_issues: 1,
+		open_issues: 2,
 		watchers: 0,
 		default_branch: "master",
 	},
 	{
-		id: 271334684,
-		node_id: "MDEwOlJlcG9zaXRvcnkyNzEzMzQ2ODQ=",
-		name: "homepage-webpack",
-		full_name: "michal-krawczyk10/homepage-webpack",
+		id: 346169533,
+		node_id: "MDEwOlJlcG9zaXRvcnkzNDYxNjk1MzM=",
+		name: "Intro-to-Vue-3",
+		full_name: "michal-krawczyk10/Intro-to-Vue-3",
 		private: false,
 		owner: {
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -569,91 +569,227 @@ export const offlineAPI = [
 			type: "User",
 			site_admin: false,
 		},
-		html_url: "https://github.com/michal-krawczyk10/homepage-webpack",
+		html_url: "https://github.com/michal-krawczyk10/Intro-to-Vue-3",
 		description: null,
 		fork: false,
-		url: "https://api.github.com/repos/michal-krawczyk10/homepage-webpack",
+		url: "https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3",
 		forks_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/forks",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/forks",
 		keys_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/keys{/key_id}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/keys{/key_id}",
 		collaborators_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/collaborators{/collaborator}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/collaborators{/collaborator}",
 		teams_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/teams",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/teams",
 		hooks_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/hooks",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/hooks",
 		issue_events_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/issues/events{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/issues/events{/number}",
 		events_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/events",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/events",
 		assignees_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/assignees{/user}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/assignees{/user}",
 		branches_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/branches{/branch}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/branches{/branch}",
 		tags_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/tags",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/tags",
 		blobs_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/git/blobs{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/git/blobs{/sha}",
 		git_tags_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/git/tags{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/git/tags{/sha}",
 		git_refs_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/git/refs{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/git/refs{/sha}",
 		trees_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/git/trees{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/git/trees{/sha}",
 		statuses_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/statuses/{sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/statuses/{sha}",
 		languages_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/languages",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/languages",
 		stargazers_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/stargazers",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/stargazers",
 		contributors_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/contributors",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/contributors",
 		subscribers_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/subscribers",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/subscribers",
 		subscription_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/subscription",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/subscription",
 		commits_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/commits{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/commits{/sha}",
 		git_commits_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/git/commits{/sha}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/git/commits{/sha}",
 		comments_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/comments{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/comments{/number}",
 		issue_comment_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/issues/comments{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/issues/comments{/number}",
 		contents_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/contents/{+path}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/contents/{+path}",
 		compare_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/compare/{base}...{head}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/compare/{base}...{head}",
 		merges_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/merges",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/merges",
 		archive_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/{archive_format}{/ref}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/{archive_format}{/ref}",
 		downloads_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/downloads",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/downloads",
 		issues_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/issues{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/issues{/number}",
 		pulls_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/pulls{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/pulls{/number}",
 		milestones_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/milestones{/number}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/milestones{/number}",
 		notifications_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/notifications{?since,all,participating}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/notifications{?since,all,participating}",
 		labels_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/labels{/name}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/labels{/name}",
 		releases_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/releases{/id}",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/releases{/id}",
 		deployments_url:
-			"https://api.github.com/repos/michal-krawczyk10/homepage-webpack/deployments",
-		created_at: "2020-06-10T16:54:07Z",
-		updated_at: "2020-06-13T01:42:24Z",
-		pushed_at: "2020-12-12T21:10:48Z",
-		git_url: "git://github.com/michal-krawczyk10/homepage-webpack.git",
-		ssh_url: "git@github.com:michal-krawczyk10/homepage-webpack.git",
-		clone_url: "https://github.com/michal-krawczyk10/homepage-webpack.git",
-		svn_url: "https://github.com/michal-krawczyk10/homepage-webpack",
+			"https://api.github.com/repos/michal-krawczyk10/Intro-to-Vue-3/deployments",
+		created_at: "2021-03-09T23:10:38Z",
+		updated_at: "2021-03-09T23:10:38Z",
+		pushed_at: "2021-03-09T23:10:39Z",
+		git_url: "git://github.com/michal-krawczyk10/Intro-to-Vue-3.git",
+		ssh_url: "git@github.com:michal-krawczyk10/Intro-to-Vue-3.git",
+		clone_url: "https://github.com/michal-krawczyk10/Intro-to-Vue-3.git",
+		svn_url: "https://github.com/michal-krawczyk10/Intro-to-Vue-3",
 		homepage: null,
-		size: 12277,
+		size: 0,
+		stargazers_count: 0,
+		watchers_count: 0,
+		language: null,
+		has_issues: true,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: false,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 0,
+		license: null,
+		forks: 0,
+		open_issues: 0,
+		watchers: 0,
+		default_branch: "main",
+	},
+	{
+		id: 321431627,
+		node_id: "MDEwOlJlcG9zaXRvcnkzMjE0MzE2Mjc=",
+		name: "JavaScript30",
+		full_name: "michal-krawczyk10/JavaScript30",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/JavaScript30",
+		description: "Wess Boss challenge ",
+		fork: false,
+		url: "https://api.github.com/repos/michal-krawczyk10/JavaScript30",
+		forks_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/collaborators{/collaborator}",
+		teams_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/teams",
+		hooks_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/issues/events{/number}",
+		events_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/branches{/branch}",
+		tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/compare/{base}...{head}",
+		merges_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/JavaScript30/deployments",
+		created_at: "2020-12-14T18:03:43Z",
+		updated_at: "2021-04-11T14:17:16Z",
+		pushed_at: "2021-04-01T08:31:37Z",
+		git_url: "git://github.com/michal-krawczyk10/JavaScript30.git",
+		ssh_url: "git@github.com:michal-krawczyk10/JavaScript30.git",
+		clone_url: "https://github.com/michal-krawczyk10/JavaScript30.git",
+		svn_url: "https://github.com/michal-krawczyk10/JavaScript30",
+		homepage: "",
+		size: 10818,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "HTML",
@@ -683,7 +819,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -777,13 +913,13 @@ export const offlineAPI = [
 			"https://api.github.com/repos/michal-krawczyk10/Kanban/deployments",
 		created_at: "2019-12-14T12:27:06Z",
 		updated_at: "2020-05-13T18:07:46Z",
-		pushed_at: "2020-09-06T20:52:12Z",
+		pushed_at: "2021-03-31T05:01:23Z",
 		git_url: "git://github.com/michal-krawczyk10/Kanban.git",
 		ssh_url: "git@github.com:michal-krawczyk10/Kanban.git",
 		clone_url: "https://github.com/michal-krawczyk10/Kanban.git",
 		svn_url: "https://github.com/michal-krawczyk10/Kanban",
 		homepage: null,
-		size: 201,
+		size: 252,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -791,16 +927,149 @@ export const offlineAPI = [
 		has_projects: true,
 		has_downloads: true,
 		has_wiki: true,
-		has_pages: false,
+		has_pages: true,
 		forks_count: 0,
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 3,
+		open_issues_count: 4,
 		license: null,
 		forks: 0,
-		open_issues: 3,
+		open_issues: 4,
 		watchers: 0,
+		default_branch: "master",
+	},
+	{
+		id: 351103788,
+		node_id: "MDEwOlJlcG9zaXRvcnkzNTExMDM3ODg=",
+		name: "la-tierra",
+		full_name: "michal-krawczyk10/la-tierra",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/la-tierra",
+		description:
+			"My personal photo gallery. Also first website I made using Vue3.",
+		fork: false,
+		url: "https://api.github.com/repos/michal-krawczyk10/la-tierra",
+		forks_url: "https://api.github.com/repos/michal-krawczyk10/la-tierra/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/collaborators{/collaborator}",
+		teams_url: "https://api.github.com/repos/michal-krawczyk10/la-tierra/teams",
+		hooks_url: "https://api.github.com/repos/michal-krawczyk10/la-tierra/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/issues/events{/number}",
+		events_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/branches{/branch}",
+		tags_url: "https://api.github.com/repos/michal-krawczyk10/la-tierra/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/compare/{base}...{head}",
+		merges_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/la-tierra/deployments",
+		created_at: "2021-03-24T14:10:05Z",
+		updated_at: "2021-04-11T14:08:51Z",
+		pushed_at: "2021-04-11T14:08:07Z",
+		git_url: "git://github.com/michal-krawczyk10/la-tierra.git",
+		ssh_url: "git@github.com:michal-krawczyk10/la-tierra.git",
+		clone_url: "https://github.com/michal-krawczyk10/la-tierra.git",
+		svn_url: "https://github.com/michal-krawczyk10/la-tierra",
+		homepage: "https://michal-krawczyk10.github.io/la-tierra/#/",
+		size: 22502,
+		stargazers_count: 1,
+		watchers_count: 1,
+		language: "Vue",
+		has_issues: true,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: true,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 0,
+		license: null,
+		forks: 0,
+		open_issues: 0,
+		watchers: 1,
 		default_branch: "master",
 	},
 	{
@@ -813,7 +1082,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -836,7 +1105,7 @@ export const offlineAPI = [
 			site_admin: false,
 		},
 		html_url: "https://github.com/michal-krawczyk10/Let-it-be-dark",
-		description: null,
+		description: "touch the sun to turn off the light",
 		fork: false,
 		url: "https://api.github.com/repos/michal-krawczyk10/Let-it-be-dark",
 		forks_url:
@@ -912,14 +1181,14 @@ export const offlineAPI = [
 		deployments_url:
 			"https://api.github.com/repos/michal-krawczyk10/Let-it-be-dark/deployments",
 		created_at: "2020-06-11T16:55:16Z",
-		updated_at: "2020-06-17T13:17:24Z",
-		pushed_at: "2020-12-12T21:18:06Z",
+		updated_at: "2021-04-11T15:22:05Z",
+		pushed_at: "2021-04-01T02:13:01Z",
 		git_url: "git://github.com/michal-krawczyk10/Let-it-be-dark.git",
 		ssh_url: "git@github.com:michal-krawczyk10/Let-it-be-dark.git",
 		clone_url: "https://github.com/michal-krawczyk10/Let-it-be-dark.git",
 		svn_url: "https://github.com/michal-krawczyk10/Let-it-be-dark",
-		homepage: null,
-		size: 1230,
+		homepage: "",
+		size: 1451,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -932,10 +1201,10 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 2,
+		open_issues_count: 3,
 		license: null,
 		forks: 0,
-		open_issues: 2,
+		open_issues: 3,
 		watchers: 0,
 		default_branch: "master",
 	},
@@ -949,7 +1218,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1050,8 +1319,8 @@ export const offlineAPI = [
 		deployments_url:
 			"https://api.github.com/repos/michal-krawczyk10/michal-krawczyk10.github.io/deployments",
 		created_at: "2020-11-29T08:31:15Z",
-		updated_at: "2020-11-29T08:31:22Z",
-		pushed_at: "2020-11-29T09:39:11Z",
+		updated_at: "2021-03-24T19:15:33Z",
+		pushed_at: "2021-03-24T19:17:21Z",
 		git_url:
 			"git://github.com/michal-krawczyk10/michal-krawczyk10.github.io.git",
 		ssh_url: "git@github.com:michal-krawczyk10/michal-krawczyk10.github.io.git",
@@ -1059,7 +1328,7 @@ export const offlineAPI = [
 			"https://github.com/michal-krawczyk10/michal-krawczyk10.github.io.git",
 		svn_url: "https://github.com/michal-krawczyk10/michal-krawczyk10.github.io",
 		homepage: null,
-		size: 1826,
+		size: 1828,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -1067,7 +1336,7 @@ export const offlineAPI = [
 		has_projects: true,
 		has_downloads: true,
 		has_wiki: true,
-		has_pages: false,
+		has_pages: true,
 		forks_count: 0,
 		mirror_url: null,
 		archived: false,
@@ -1089,7 +1358,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1112,7 +1381,8 @@ export const offlineAPI = [
 			site_admin: false,
 		},
 		html_url: "https://github.com/michal-krawczyk10/mizu",
-		description: "Simple app to count glasses of water one drink daily.",
+		description:
+			"Very basic app to count glasses of water. I made it while learning basic JS.",
 		fork: false,
 		url: "https://api.github.com/repos/michal-krawczyk10/mizu",
 		forks_url: "https://api.github.com/repos/michal-krawczyk10/mizu/forks",
@@ -1182,14 +1452,14 @@ export const offlineAPI = [
 		deployments_url:
 			"https://api.github.com/repos/michal-krawczyk10/mizu/deployments",
 		created_at: "2020-10-31T23:47:27Z",
-		updated_at: "2020-11-29T16:30:00Z",
-		pushed_at: "2020-12-13T06:58:41Z",
+		updated_at: "2021-04-11T14:44:10Z",
+		pushed_at: "2021-04-11T14:39:19Z",
 		git_url: "git://github.com/michal-krawczyk10/mizu.git",
 		ssh_url: "git@github.com:michal-krawczyk10/mizu.git",
 		clone_url: "https://github.com/michal-krawczyk10/mizu.git",
 		svn_url: "https://github.com/michal-krawczyk10/mizu",
 		homepage: "https://michal-krawczyk10.github.io/mizu/",
-		size: 3978,
+		size: 4205,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -1202,11 +1472,142 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 1,
+		open_issues_count: 3,
 		license: null,
 		forks: 0,
-		open_issues: 1,
+		open_issues: 3,
 		watchers: 0,
+		default_branch: "master",
+	},
+	{
+		id: 335391213,
+		node_id: "MDEwOlJlcG9zaXRvcnkzMzUzOTEyMTM=",
+		name: "opm",
+		full_name: "michal-krawczyk10/opm",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/opm",
+		description:
+			"Single page app for everyday workout. Done with vanilla JS, mobile first, PWA. My first bigger app, so I am proud of it. :)",
+		fork: false,
+		url: "https://api.github.com/repos/michal-krawczyk10/opm",
+		forks_url: "https://api.github.com/repos/michal-krawczyk10/opm/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/collaborators{/collaborator}",
+		teams_url: "https://api.github.com/repos/michal-krawczyk10/opm/teams",
+		hooks_url: "https://api.github.com/repos/michal-krawczyk10/opm/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/issues/events{/number}",
+		events_url: "https://api.github.com/repos/michal-krawczyk10/opm/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/branches{/branch}",
+		tags_url: "https://api.github.com/repos/michal-krawczyk10/opm/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/compare/{base}...{head}",
+		merges_url: "https://api.github.com/repos/michal-krawczyk10/opm/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/opm/deployments",
+		created_at: "2021-02-02T18:51:12Z",
+		updated_at: "2021-04-11T15:12:17Z",
+		pushed_at: "2021-04-11T15:04:32Z",
+		git_url: "git://github.com/michal-krawczyk10/opm.git",
+		ssh_url: "git@github.com:michal-krawczyk10/opm.git",
+		clone_url: "https://github.com/michal-krawczyk10/opm.git",
+		svn_url: "https://github.com/michal-krawczyk10/opm",
+		homepage: "https://michal-krawczyk10.github.io/opm/",
+		size: 7322,
+		stargazers_count: 1,
+		watchers_count: 1,
+		language: "HTML",
+		has_issues: true,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: true,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 0,
+		license: null,
+		forks: 0,
+		open_issues: 0,
+		watchers: 1,
 		default_branch: "master",
 	},
 	{
@@ -1219,7 +1620,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1242,7 +1643,8 @@ export const offlineAPI = [
 			site_admin: false,
 		},
 		html_url: "https://github.com/michal-krawczyk10/portfolio",
-		description: "my portfolio",
+		description:
+			"My coding portfolio. You are more than welcome to check the source code.",
 		fork: false,
 		url: "https://api.github.com/repos/michal-krawczyk10/portfolio",
 		forks_url: "https://api.github.com/repos/michal-krawczyk10/portfolio/forks",
@@ -1314,22 +1716,152 @@ export const offlineAPI = [
 		deployments_url:
 			"https://api.github.com/repos/michal-krawczyk10/portfolio/deployments",
 		created_at: "2020-11-30T06:51:54Z",
-		updated_at: "2020-12-12T13:17:41Z",
-		pushed_at: "2020-12-12T13:17:38Z",
+		updated_at: "2021-04-11T16:17:12Z",
+		pushed_at: "2021-04-11T16:18:15Z",
 		git_url: "git://github.com/michal-krawczyk10/portfolio.git",
 		ssh_url: "git@github.com:michal-krawczyk10/portfolio.git",
 		clone_url: "https://github.com/michal-krawczyk10/portfolio.git",
 		svn_url: "https://github.com/michal-krawczyk10/portfolio",
-		homepage: null,
-		size: 1960,
+		homepage: "https://michal-krawczyk10.github.io/portfolio/",
+		size: 3774,
 		stargazers_count: 0,
 		watchers_count: 0,
-		language: "HTML",
+		language: "JavaScript",
 		has_issues: true,
 		has_projects: true,
 		has_downloads: true,
 		has_wiki: true,
 		has_pages: true,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 0,
+		license: null,
+		forks: 0,
+		open_issues: 0,
+		watchers: 0,
+		default_branch: "master",
+	},
+	{
+		id: 322702175,
+		node_id: "MDEwOlJlcG9zaXRvcnkzMjI3MDIxNzU=",
+		name: "pr-demo",
+		full_name: "michal-krawczyk10/pr-demo",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/pr-demo",
+		description: null,
+		fork: true,
+		url: "https://api.github.com/repos/michal-krawczyk10/pr-demo",
+		forks_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/collaborators{/collaborator}",
+		teams_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/teams",
+		hooks_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/issues/events{/number}",
+		events_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/branches{/branch}",
+		tags_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/compare/{base}...{head}",
+		merges_url: "https://api.github.com/repos/michal-krawczyk10/pr-demo/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/pr-demo/deployments",
+		created_at: "2020-12-18T20:52:32Z",
+		updated_at: "2020-12-18T20:56:53Z",
+		pushed_at: "2020-12-18T20:56:49Z",
+		git_url: "git://github.com/michal-krawczyk10/pr-demo.git",
+		ssh_url: "git@github.com:michal-krawczyk10/pr-demo.git",
+		clone_url: "https://github.com/michal-krawczyk10/pr-demo.git",
+		svn_url: "https://github.com/michal-krawczyk10/pr-demo",
+		homepage: null,
+		size: 14,
+		stargazers_count: 0,
+		watchers_count: 0,
+		language: "HTML",
+		has_issues: false,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: false,
 		forks_count: 0,
 		mirror_url: null,
 		archived: false,
@@ -1351,7 +1883,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1444,14 +1976,14 @@ export const offlineAPI = [
 		deployments_url:
 			"https://api.github.com/repos/michal-krawczyk10/repos/deployments",
 		created_at: "2020-11-22T20:40:05Z",
-		updated_at: "2020-11-22T21:21:04Z",
-		pushed_at: "2020-12-13T07:29:39Z",
+		updated_at: "2021-04-11T15:21:17Z",
+		pushed_at: "2021-04-01T08:18:26Z",
 		git_url: "git://github.com/michal-krawczyk10/repos.git",
 		ssh_url: "git@github.com:michal-krawczyk10/repos.git",
 		clone_url: "https://github.com/michal-krawczyk10/repos.git",
 		svn_url: "https://github.com/michal-krawczyk10/repos",
 		homepage: null,
-		size: 2149,
+		size: 2371,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -1462,12 +1994,12 @@ export const offlineAPI = [
 		has_pages: true,
 		forks_count: 0,
 		mirror_url: null,
-		archived: false,
+		archived: true,
 		disabled: false,
-		open_issues_count: 1,
+		open_issues_count: 3,
 		license: null,
 		forks: 0,
-		open_issues: 1,
+		open_issues: 3,
 		watchers: 0,
 		default_branch: "master",
 	},
@@ -1481,7 +2013,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1581,13 +2113,13 @@ export const offlineAPI = [
 			"https://api.github.com/repos/michal-krawczyk10/simple-editor/deployments",
 		created_at: "2020-06-19T11:30:52Z",
 		updated_at: "2020-07-06T14:58:28Z",
-		pushed_at: "2020-12-12T22:28:36Z",
+		pushed_at: "2021-04-01T02:37:50Z",
 		git_url: "git://github.com/michal-krawczyk10/simple-editor.git",
 		ssh_url: "git@github.com:michal-krawczyk10/simple-editor.git",
 		clone_url: "https://github.com/michal-krawczyk10/simple-editor.git",
 		svn_url: "https://github.com/michal-krawczyk10/simple-editor",
 		homepage: null,
-		size: 2187,
+		size: 2297,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -1600,10 +2132,285 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 3,
+		open_issues_count: 4,
 		license: null,
 		forks: 0,
-		open_issues: 3,
+		open_issues: 4,
+		watchers: 0,
+		default_branch: "master",
+	},
+	{
+		id: 195876781,
+		node_id: "MDEwOlJlcG9zaXRvcnkxOTU4NzY3ODE=",
+		name: "Solo-project",
+		full_name: "michal-krawczyk10/Solo-project",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/Solo-project",
+		description:
+			"Project from bootcamp I started at the very beginning of my coding adventure. Haven't finished as it as it all seemed too difficult back then... ",
+		fork: false,
+		url: "https://api.github.com/repos/michal-krawczyk10/Solo-project",
+		forks_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/collaborators{/collaborator}",
+		teams_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/teams",
+		hooks_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/issues/events{/number}",
+		events_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/branches{/branch}",
+		tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/compare/{base}...{head}",
+		merges_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/Solo-project/deployments",
+		created_at: "2019-07-08T19:49:20Z",
+		updated_at: "2021-04-11T15:26:20Z",
+		pushed_at: "2021-03-31T00:18:35Z",
+		git_url: "git://github.com/michal-krawczyk10/Solo-project.git",
+		ssh_url: "git@github.com:michal-krawczyk10/Solo-project.git",
+		clone_url: "https://github.com/michal-krawczyk10/Solo-project.git",
+		svn_url: "https://github.com/michal-krawczyk10/Solo-project",
+		homepage: "",
+		size: 190,
+		stargazers_count: 0,
+		watchers_count: 0,
+		language: "HTML",
+		has_issues: true,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: true,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 1,
+		license: null,
+		forks: 0,
+		open_issues: 1,
+		watchers: 0,
+		default_branch: "master",
+	},
+	{
+		id: 347872395,
+		node_id: "MDEwOlJlcG9zaXRvcnkzNDc4NzIzOTU=",
+		name: "task-tracker-vue-learn-",
+		full_name: "michal-krawczyk10/task-tracker-vue-learn-",
+		private: false,
+		owner: {
+			login: "michal-krawczyk10",
+			id: 46378992,
+			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
+			gravatar_id: "",
+			url: "https://api.github.com/users/michal-krawczyk10",
+			html_url: "https://github.com/michal-krawczyk10",
+			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
+			following_url:
+				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
+			gists_url:
+				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
+			starred_url:
+				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
+			subscriptions_url:
+				"https://api.github.com/users/michal-krawczyk10/subscriptions",
+			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
+			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
+			events_url:
+				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
+			received_events_url:
+				"https://api.github.com/users/michal-krawczyk10/received_events",
+			type: "User",
+			site_admin: false,
+		},
+		html_url: "https://github.com/michal-krawczyk10/task-tracker-vue-learn-",
+		description: null,
+		fork: false,
+		url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-",
+		forks_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/forks",
+		keys_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/keys{/key_id}",
+		collaborators_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/collaborators{/collaborator}",
+		teams_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/teams",
+		hooks_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/hooks",
+		issue_events_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/issues/events{/number}",
+		events_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/events",
+		assignees_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/assignees{/user}",
+		branches_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/branches{/branch}",
+		tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/tags",
+		blobs_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/git/blobs{/sha}",
+		git_tags_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/git/tags{/sha}",
+		git_refs_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/git/refs{/sha}",
+		trees_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/git/trees{/sha}",
+		statuses_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/statuses/{sha}",
+		languages_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/languages",
+		stargazers_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/stargazers",
+		contributors_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/contributors",
+		subscribers_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/subscribers",
+		subscription_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/subscription",
+		commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/commits{/sha}",
+		git_commits_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/git/commits{/sha}",
+		comments_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/comments{/number}",
+		issue_comment_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/issues/comments{/number}",
+		contents_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/contents/{+path}",
+		compare_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/compare/{base}...{head}",
+		merges_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/merges",
+		archive_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/{archive_format}{/ref}",
+		downloads_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/downloads",
+		issues_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/issues{/number}",
+		pulls_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/pulls{/number}",
+		milestones_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/milestones{/number}",
+		notifications_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/notifications{?since,all,participating}",
+		labels_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/labels{/name}",
+		releases_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/releases{/id}",
+		deployments_url:
+			"https://api.github.com/repos/michal-krawczyk10/task-tracker-vue-learn-/deployments",
+		created_at: "2021-03-15T07:16:31Z",
+		updated_at: "2021-03-15T12:41:38Z",
+		pushed_at: "2021-03-15T12:41:28Z",
+		git_url: "git://github.com/michal-krawczyk10/task-tracker-vue-learn-.git",
+		ssh_url: "git@github.com:michal-krawczyk10/task-tracker-vue-learn-.git",
+		clone_url:
+			"https://github.com/michal-krawczyk10/task-tracker-vue-learn-.git",
+		svn_url: "https://github.com/michal-krawczyk10/task-tracker-vue-learn-",
+		homepage: null,
+		size: 289,
+		stargazers_count: 0,
+		watchers_count: 0,
+		language: "Vue",
+		has_issues: true,
+		has_projects: true,
+		has_downloads: true,
+		has_wiki: true,
+		has_pages: false,
+		forks_count: 0,
+		mirror_url: null,
+		archived: false,
+		disabled: false,
+		open_issues_count: 0,
+		license: null,
+		forks: 0,
+		open_issues: 0,
 		watchers: 0,
 		default_branch: "master",
 	},
@@ -1617,7 +2424,7 @@ export const offlineAPI = [
 			login: "michal-krawczyk10",
 			id: 46378992,
 			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
+			avatar_url: "https://avatars.githubusercontent.com/u/46378992?v=4",
 			gravatar_id: "",
 			url: "https://api.github.com/users/michal-krawczyk10",
 			html_url: "https://github.com/michal-krawczyk10",
@@ -1717,13 +2524,13 @@ export const offlineAPI = [
 			"https://api.github.com/repos/michal-krawczyk10/webpack-test/deployments",
 		created_at: "2020-06-09T22:46:52Z",
 		updated_at: "2020-06-09T22:46:57Z",
-		pushed_at: "2020-12-12T21:07:03Z",
+		pushed_at: "2021-04-01T01:58:43Z",
 		git_url: "git://github.com/michal-krawczyk10/webpack-test.git",
 		ssh_url: "git@github.com:michal-krawczyk10/webpack-test.git",
 		clone_url: "https://github.com/michal-krawczyk10/webpack-test.git",
 		svn_url: "https://github.com/michal-krawczyk10/webpack-test",
 		homepage: null,
-		size: 351,
+		size: 571,
 		stargazers_count: 0,
 		watchers_count: 0,
 		language: "JavaScript",
@@ -1736,146 +2543,10 @@ export const offlineAPI = [
 		mirror_url: null,
 		archived: false,
 		disabled: false,
-		open_issues_count: 2,
+		open_issues_count: 3,
 		license: null,
 		forks: 0,
-		open_issues: 2,
-		watchers: 0,
-		default_branch: "master",
-	},
-	{
-		id: 308991822,
-		node_id: "MDEwOlJlcG9zaXRvcnkzMDg5OTE4MjI=",
-		name: "wtf-webpack-starter",
-		full_name: "michal-krawczyk10/wtf-webpack-starter",
-		private: false,
-		owner: {
-			login: "michal-krawczyk10",
-			id: 46378992,
-			node_id: "MDQ6VXNlcjQ2Mzc4OTky",
-			avatar_url: "https://avatars0.githubusercontent.com/u/46378992?v=4",
-			gravatar_id: "",
-			url: "https://api.github.com/users/michal-krawczyk10",
-			html_url: "https://github.com/michal-krawczyk10",
-			followers_url: "https://api.github.com/users/michal-krawczyk10/followers",
-			following_url:
-				"https://api.github.com/users/michal-krawczyk10/following{/other_user}",
-			gists_url:
-				"https://api.github.com/users/michal-krawczyk10/gists{/gist_id}",
-			starred_url:
-				"https://api.github.com/users/michal-krawczyk10/starred{/owner}{/repo}",
-			subscriptions_url:
-				"https://api.github.com/users/michal-krawczyk10/subscriptions",
-			organizations_url: "https://api.github.com/users/michal-krawczyk10/orgs",
-			repos_url: "https://api.github.com/users/michal-krawczyk10/repos",
-			events_url:
-				"https://api.github.com/users/michal-krawczyk10/events{/privacy}",
-			received_events_url:
-				"https://api.github.com/users/michal-krawczyk10/received_events",
-			type: "User",
-			site_admin: false,
-		},
-		html_url: "https://github.com/michal-krawczyk10/wtf-webpack-starter",
-		description: null,
-		fork: false,
-		url: "https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter",
-		forks_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/forks",
-		keys_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/keys{/key_id}",
-		collaborators_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/collaborators{/collaborator}",
-		teams_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/teams",
-		hooks_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/hooks",
-		issue_events_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/issues/events{/number}",
-		events_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/events",
-		assignees_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/assignees{/user}",
-		branches_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/branches{/branch}",
-		tags_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/tags",
-		blobs_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/git/blobs{/sha}",
-		git_tags_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/git/tags{/sha}",
-		git_refs_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/git/refs{/sha}",
-		trees_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/git/trees{/sha}",
-		statuses_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/statuses/{sha}",
-		languages_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/languages",
-		stargazers_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/stargazers",
-		contributors_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/contributors",
-		subscribers_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/subscribers",
-		subscription_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/subscription",
-		commits_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/commits{/sha}",
-		git_commits_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/git/commits{/sha}",
-		comments_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/comments{/number}",
-		issue_comment_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/issues/comments{/number}",
-		contents_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/contents/{+path}",
-		compare_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/compare/{base}...{head}",
-		merges_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/merges",
-		archive_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/{archive_format}{/ref}",
-		downloads_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/downloads",
-		issues_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/issues{/number}",
-		pulls_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/pulls{/number}",
-		milestones_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/milestones{/number}",
-		notifications_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/notifications{?since,all,participating}",
-		labels_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/labels{/name}",
-		releases_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/releases{/id}",
-		deployments_url:
-			"https://api.github.com/repos/michal-krawczyk10/wtf-webpack-starter/deployments",
-		created_at: "2020-10-31T23:46:04Z",
-		updated_at: "2020-10-31T23:46:11Z",
-		pushed_at: "2020-12-13T06:58:37Z",
-		git_url: "git://github.com/michal-krawczyk10/wtf-webpack-starter.git",
-		ssh_url: "git@github.com:michal-krawczyk10/wtf-webpack-starter.git",
-		clone_url: "https://github.com/michal-krawczyk10/wtf-webpack-starter.git",
-		svn_url: "https://github.com/michal-krawczyk10/wtf-webpack-starter",
-		homepage: null,
-		size: 1933,
-		stargazers_count: 0,
-		watchers_count: 0,
-		language: "JavaScript",
-		has_issues: true,
-		has_projects: true,
-		has_downloads: true,
-		has_wiki: true,
-		has_pages: false,
-		forks_count: 0,
-		mirror_url: null,
-		archived: false,
-		disabled: false,
-		open_issues_count: 1,
-		license: null,
-		forks: 0,
-		open_issues: 1,
+		open_issues: 3,
 		watchers: 0,
 		default_branch: "master",
 	},
