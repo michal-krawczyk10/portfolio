@@ -2,5 +2,5 @@
 
 # My frontend portfolio
 
-Check it here: https://michal-krawczyk10.github.io/
+Check it here: https://michal-krawczyk10.github.io/portfolio/
 
